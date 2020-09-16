@@ -1,1 +1,1 @@
-In this section, we will develop a Logistic Regression model using the Scikit-Learn Library for estimating Model Coefficients to predict if a Customer will apply for a Loan.
+In this Data set we are Predicting the Insurance Claim by the users, Machine Learning algorithms for Regression analysis are used in the following section. In logistic regression, the outcome is binary.
