@@ -1,1 +1,1 @@
-In this Data set we are Predicting the Insurance Claim by the users, Machine Learning algorithms for Regression analysis are used in the following section. In logistic regression, the outcome is binary.
+In this section we are predicting the Insurance Claim by the users, Machine Learning algorithms for Regression analysis is used in the following section.It will be trying to find out whether the person will take insurance or not by the help of the age of the person. Its a binary Classifiaction Problem.
